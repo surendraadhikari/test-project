@@ -7,7 +7,7 @@ game project1/Library/
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
-game project1/ExportedObj/
+/ExportedObj/
 obj/
 *.svd
 *.userprefs
